@@ -1,14 +1,15 @@
 //Bar-Management-System
 //It is a C language project in which I've used the DSA concept.
+
+
+
+///Logic Functions
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
 #include<string.h>
 #include<windows.h>
 #include<time.h>
-
-
-///Logic Functions
 
    /// Update & Insert Function
 void insertfirst(int data, char foodname[25], int quantity, float price);
